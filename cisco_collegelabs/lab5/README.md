@@ -1,4 +1,4 @@
-# Packet Tracer – Router Configuration and IP Addressing Lab
+# Laboratory 5 – Router Configuration and IP Addressing Lab
 
 ## Objective
 In this lab, I built a simple network with two subnets, configured a router to enable IP addressing, and verified connectivity between all devices across different network segments.
