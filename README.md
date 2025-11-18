@@ -1,6 +1,10 @@
-# Cisco-Network-Documentation
+# Computer Networking Documentation
 
-Cisco Network Documentation from college labs and online networking courses; showcasing practical skills in designing, configuring, and managing Cisco networks. This repository includes network topologies, IP addressing schemes, Cisco IOS configurations, routing protocols, and troubleshooting notes.
+These materials come from college laboratory exercises and online networking courses; showcasing practical skills in designing, configuring, and managing Cisco networks. It includes network topologies, IP addressing, Cisco configurations, routing protocols, and troubleshooting notes.
+
+## Overview
+
+This repository showcases my practical understanding of core networking concepts through documented lab activities. Each section reflects the skills essential for network administration and security operations.
 
 ## Features
 
@@ -10,16 +14,15 @@ Cisco Network Documentation from college labs and online networking courses; sho
 - **Troubleshooting Notes**: Common issues encountered and solutions applied during labs.
 - **Hands-on Skills**: Demonstrates practical experience in configuring and verifying Cisco networks.
 
-## Usage
+## How to Use This Repository
 
-1. Browse the directories to explore different lab exercises.
-2. Refer to configuration files for guidance on Cisco device setups.
-3. Use topology diagrams to understand network designs.
-4. Study troubleshooting notes to enhance problem-solving skills in real-world networking scenarios.
+1. Explore each folder to review specific lab exercises and network scenarios.
+2. Read README files to understand how Cisco devices were set up.
+3. Refer to PNG files for the finalized network topologies and laboratory results.
 
-## Prerequisites
+## Requirements
 
 - Basic understanding of networking concepts (OSI model, IP addressing, subnetting)
-- Familiarity with Cisco devices and IOS commands
-- Cisco Packet Tracer or physical lab equipment (optional but recommended)
+- Familiarity with Cisco devices and configuration (IOS) commands
+- Cisco Packet Tracer
 
