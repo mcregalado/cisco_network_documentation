@@ -1,4 +1,4 @@
-# Packet Tracer – Simple Network Lab
+# Laboratory 1 – Simple Network
 
 ## Objective
 In this lab, I built and configured a simple network in Packet Tracer, connected end devices, and verified connectivity to a server.
