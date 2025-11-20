@@ -1,4 +1,4 @@
-Laboratory 3 - Wireless Connectivity Lab  
+# Laboratory 3 - Wireless Connectivity Lab  
 
 ## Objectives
 In this lab, I connected devices using different wireless technologies:
