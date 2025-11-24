@@ -37,7 +37,7 @@ The tasks included:
 
 ## Step 2: Test Connectivity
 1. From **Office-User**, I opened **Desktop → Command Prompt** and pinged **Office-Admin PC (192.168.20.5)** using the command > ping 192.168.20.5.
-2. The ping was successful.  
+2. The ping was successful. (To ensure connectivity, I had to configure the DHCP addressing for immediate detection of network configuration details)
 3. I opened a web browser on **Office-User** and accessed **office.srv** to verify connectivity.
 
 ---
