@@ -30,7 +30,7 @@ The Network Controller uses the static IP: **192.168.20.5**
 
 ---
 
-## Part 2: Verify Connectivity
+# Part 2: Verify Connectivity
 1. On **Office-Admin PC**, went to **Desktop → Command Prompt**
 2. Run: **ipconfig** to ensure the PC has an ip address, the use the command **ping 192.168.20.5** to check the connection of the network controller.
 
@@ -55,7 +55,7 @@ Expected: **4 successful replies**
 
 ---
 
-## Part 4: Discover New Devices in the Office Network
+# Part 4: Discover New Devices in the Office Network
 
 ### A. Check the Initial Host List  
 Before adding any new clients, I first confirmed what the Network Controller already recognized some existing devices on the network.
