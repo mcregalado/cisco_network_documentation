@@ -21,7 +21,7 @@ A Network Controller allows administrators to:
 
 # Part 1: Implement a Network Controller
 
-## Step 1: Connect the Network Controller to switch: Office-SW1
+## Connect the Network Controller to switch: Office-SW1
 1. In the **Wiring Closet**, locate the preconfigured Network Controller on the shelf.
 2. Had moved the controller to the Rack and powered it on.
 3. Connecting the ports **Network Controller G0 and Office-SW1 Gi1/0/19** using a *copper straight-through cable*.
@@ -40,7 +40,7 @@ Expected: **4 successful replies**
 
 # Part 3: Monitor the Network
 
-## Step 1: Log into the Network Controller GUI
+## Log into the Network Controller GUI
 1. From **Office-Admin**, open **Web Browser**.
 2. Navigated to:  `http://192.168.20.5`
 3. Logged in using an admin account
