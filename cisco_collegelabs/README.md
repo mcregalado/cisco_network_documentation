@@ -7,7 +7,7 @@ This repository contains my completed Computer Network and Security course from 
 - **Network Topologies** – Diagrams and designs of lab networks.  
 - **IP Addressing** – Subnetting and addressing plans used in labs.  
 - **Cisco IOS Configurations** – Router and switch configurations from exercises.  
-- **Routing Protocols** – Labs featuring RIP, OSPF, EIGRP, and static routing.  
+- **Routing Protocols** – Labs featuring DHCP and static routing.  
 - **Troubleshooting Notes** – Problems encountered in labs and how they were solved.  
 
 ## Purpose
