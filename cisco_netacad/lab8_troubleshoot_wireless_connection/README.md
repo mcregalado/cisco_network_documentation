@@ -12,6 +12,7 @@ The troubleshooting process included:
 - Updating the wireless configuration on the affected laptop  
 
 Output recording: https://drive.google.com/file/d/1O_V76pjDidxetKL2CsGFxEFc0NBDh-oB/view?usp=sharing
+
 ---
 
 ## Objectives
